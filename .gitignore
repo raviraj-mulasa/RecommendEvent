@@ -12,6 +12,16 @@
 hs_err_pid*
 
 .idea/
-data/
+/data/
 lib/
 target/
+models/test_feature.arff
+models/test_feature.arff.bkp
+models/test_feature.csv
+models/test_feature.csv.bkp
+models/test_feature_final.arff
+models/test_feature_final.arff.bkp
+models/test_feature_final.arff.bkp.latest
+models/train_feature.arff
+models/train_feature.csv
+models/train_feature_final.arff
